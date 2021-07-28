@@ -2,5 +2,4 @@ farine
 sucre
 beurre
 chocolat
-
-temps de préparation: 1h30
+90min
