@@ -2,4 +2,5 @@ farine
 sucre
 beurre
 chocolat
-café
+
+temps de préparation: 1h30

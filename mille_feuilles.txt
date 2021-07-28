@@ -1,2 +1,3 @@
 creme patissiere
-sucre
+
+temps de préparation: 1h30
